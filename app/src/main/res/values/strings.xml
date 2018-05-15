@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name= "first_input">Laura</string>
+    <string name ="action_button">Button</string>
+    <string name = "ok_button">OK</string>
+    <string name = "cancel_button">CANCEL</string>
+</resources>
